@@ -2,7 +2,7 @@
 
 > 一个 CCW 安全审计工具。
 
-火速冲冲冲！[https://axolotltfgs.github.io/CSense/csense.js](点击下载 CSense，一分钱都不要!)
+火速冲冲冲！(https://axolotltfgs.github.io/CSense/csense.js)[点击下载 CSense，一分钱都不要!]
 
 ## 功能
 
