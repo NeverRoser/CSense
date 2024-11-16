@@ -2,6 +2,8 @@
 
 > 一个 CCW 安全审计工具。
 
+火速冲冲冲！[https://axolotltfgs.github.io/CSense/csense.js](点击下载 CSense，一分钱都不要!)
+
 ## 功能
 
 - 一键登录新身份，甚至都不需要密码！（官方更新后功能略有瑕疵）
